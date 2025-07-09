@@ -16,3 +16,6 @@ To interpret the predictions made by a trained LSTM model using SHAP values and 
 
 Used SHAP to reveal how the importance of features like **precipitation, temperature, and Land use land cover** changes across time and climate events.
 
+You can find the model training and transfer learning phase in the companion repository:  
+[Streamflow Model Training & Transfer Learning](https://github.com/siris11/Streamflow-prediction)
+
